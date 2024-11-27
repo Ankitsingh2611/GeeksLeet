@@ -23,5 +23,6 @@
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0065-valid-number) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1133-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
