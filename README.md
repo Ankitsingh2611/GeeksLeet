@@ -60,4 +60,8 @@
 |  |
 | ------- |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
