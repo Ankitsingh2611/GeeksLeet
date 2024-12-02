@@ -12,6 +12,7 @@
 | [1791-richest-customer-wealth](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2058-concatenation-of-array) |
+| [2411-spiral-matrix-iv](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2058-concatenation-of-array) |
+| [2411-spiral-matrix-iv](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2411-spiral-matrix-iv) |
 ## Trie
 |  |
 | ------- |
@@ -80,4 +82,9 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1791-richest-customer-wealth) |
+| [2411-spiral-matrix-iv](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2411-spiral-matrix-iv) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
