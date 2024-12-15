@@ -61,6 +61,7 @@
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
 | [0065-valid-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -105,6 +106,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 ## Greedy
 |  |
@@ -156,4 +158,12 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0386-lexicographical-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
