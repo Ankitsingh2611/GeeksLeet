@@ -32,6 +32,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
