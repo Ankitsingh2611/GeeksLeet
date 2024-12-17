@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
