@@ -15,6 +15,7 @@
 | [0898-transpose-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1031-add-to-array-form-of-integer) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
 ## Math
 |  |
@@ -138,6 +140,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1031-add-to-array-form-of-integer) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
