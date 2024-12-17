@@ -35,6 +35,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1603-running-sum-of-1d-array) |
+| [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1791-richest-customer-wealth) |
@@ -226,4 +227,20 @@
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1372-check-if-it-is-a-good-array) |
+## Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
+## Sliding Window
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
