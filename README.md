@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
@@ -138,6 +140,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
