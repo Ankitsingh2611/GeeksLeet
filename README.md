@@ -26,6 +26,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0921-spiral-matrix-iii) |
+| [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1031-add-to-array-form-of-integer) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -64,6 +65,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -81,6 +83,7 @@
 | [0436-find-right-interval](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0436-find-right-interval) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
 ## Two Pointers
@@ -225,6 +228,7 @@
 | [0367-valid-perfect-square](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0436-find-right-interval) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
