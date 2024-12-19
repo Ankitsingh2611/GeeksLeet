@@ -35,6 +35,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1505-create-target-array-in-the-given-order) |
@@ -197,6 +198,7 @@
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0921-spiral-matrix-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1791-richest-customer-wealth) |
@@ -223,6 +225,7 @@
 | [0367-valid-perfect-square](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0436-find-right-interval) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Memoization
