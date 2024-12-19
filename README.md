@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0198-house-robber) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
@@ -216,6 +218,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0436-find-right-interval](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0436-find-right-interval) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1646-kth-missing-positive-number) |
