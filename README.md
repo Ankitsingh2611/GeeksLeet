@@ -25,6 +25,7 @@
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0436-find-right-interval) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -254,6 +255,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0792-binary-search) |
