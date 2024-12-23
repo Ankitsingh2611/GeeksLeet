@@ -39,6 +39,7 @@
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1031-add-to-array-form-of-integer) |
@@ -289,6 +290,7 @@
 | [0755-reach-a-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1185-find-in-mountain-array) |
