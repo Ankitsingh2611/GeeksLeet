@@ -72,6 +72,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
@@ -100,6 +101,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
@@ -130,6 +132,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
