@@ -69,6 +69,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1603-running-sum-of-1d-array) |
 | [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
@@ -141,6 +142,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -385,6 +387,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
