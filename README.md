@@ -49,6 +49,7 @@
 | [0907-koko-eating-bananas](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
+| [1018-largest-perimeter-triangle](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
@@ -138,6 +139,7 @@
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
+| [1018-largest-perimeter-triangle](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -239,6 +241,7 @@
 | [0055-jump-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -256,6 +259,7 @@
 | [0441-arranging-coins](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0755-reach-a-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0755-reach-a-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1372-check-if-it-is-a-good-array) |
