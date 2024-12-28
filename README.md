@@ -28,6 +28,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0198-house-robber) |
@@ -112,6 +113,7 @@
 | [0001-two-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -145,6 +147,7 @@
 | [0088-merge-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
@@ -340,6 +343,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -408,6 +412,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Number Theory
