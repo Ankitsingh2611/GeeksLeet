@@ -34,6 +34,7 @@
 | [0198-house-robber](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -131,6 +132,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
@@ -191,6 +193,7 @@
 | [0148-sort-list](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0455-assign-cookies) |
@@ -364,6 +367,7 @@
 | [0162-find-peak-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0350-intersection-of-two-arrays-ii) |
