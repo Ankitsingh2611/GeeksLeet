@@ -39,6 +39,7 @@
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -113,6 +114,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
