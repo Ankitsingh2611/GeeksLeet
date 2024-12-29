@@ -107,6 +107,7 @@
 | [1983-maximum-population-year](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 | [2047-find-a-peak-element-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2058-concatenation-of-array) |
@@ -222,6 +223,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 ## String
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -432,6 +435,7 @@
 | [1946-minimum-absolute-sum-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 | [2047-find-a-peak-element-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2047-find-a-peak-element-ii) |
 ## Memoization
 |  |
