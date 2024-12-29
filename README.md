@@ -211,6 +211,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0556-next-greater-element-iii) |
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0958-sort-array-by-parity-ii) |
@@ -231,6 +232,7 @@
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0556-next-greater-element-iii) |
 | [0686-repeated-string-match](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0686-repeated-string-match) |
 | [0763-special-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0763-special-binary-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -324,6 +326,7 @@
 | [0367-valid-perfect-square](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0755-reach-a-number) |
 | [0935-orderly-queue](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0935-orderly-queue) |
