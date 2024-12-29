@@ -247,6 +247,7 @@
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
@@ -351,6 +352,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1678-number-of-ways-to-split-a-string) |
 ## Prefix Sum
 |  |
