@@ -253,6 +253,7 @@
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -354,6 +355,7 @@
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1678-number-of-ways-to-split-a-string) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
