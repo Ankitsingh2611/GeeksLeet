@@ -217,6 +217,7 @@
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
