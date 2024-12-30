@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
@@ -356,6 +358,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0069-sqrtx) |
