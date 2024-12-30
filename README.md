@@ -235,6 +235,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
@@ -316,6 +317,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
