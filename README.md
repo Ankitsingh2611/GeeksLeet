@@ -204,6 +204,7 @@
 | [0016-3sum-closest](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0148-sort-list) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0065-valid-number) |
@@ -315,6 +317,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0686-repeated-string-match) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
