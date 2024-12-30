@@ -271,6 +271,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
