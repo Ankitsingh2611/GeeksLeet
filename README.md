@@ -265,6 +265,7 @@
 | [0657-robot-return-to-origin](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0686-repeated-string-match) |
+| [0742-to-lower-case](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0742-to-lower-case) |
 | [0763-special-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0763-special-binary-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0878-shifting-letters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0878-shifting-letters) |
