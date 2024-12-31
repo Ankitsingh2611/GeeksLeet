@@ -202,6 +202,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-sorting-the-sentence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1970-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1970-sorting-the-sentence) |
 | [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2128-reverse-prefix-of-word) |
