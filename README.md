@@ -270,6 +270,7 @@
 | [0961-long-pressed-name](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0961-long-pressed-name) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1205-defanging-an-ip-address](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1205-defanging-an-ip-address) |
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
