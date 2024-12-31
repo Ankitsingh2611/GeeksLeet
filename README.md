@@ -280,6 +280,7 @@
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1764-maximum-repeating-substring](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1764-maximum-repeating-substring) |
+| [1797-goal-parser-interpretation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1797-goal-parser-interpretation) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1894-merge-strings-alternately) |
