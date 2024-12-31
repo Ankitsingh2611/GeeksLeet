@@ -277,6 +277,7 @@
 | [1133-last-substring-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1205-defanging-an-ip-address](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1321-get-equal-substrings-within-budget) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1651-shuffle-string) |
